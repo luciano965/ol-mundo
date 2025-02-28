@@ -1,7 +1,19 @@
 
-boody{
-    background-color:#7e7e7e;
+body{
+    background-color:#305050;
     color: white;
+    text-align: center;
     font-size: 20px;
     padding: 24px;
 }
+
+.texto-um{
+color: #FFA500;
+font-size: 24;
+}
+
+.texto-dois{
+    color: #FFA500;
+    font-size: 24;
+    }
+
